@@ -1332,7 +1332,7 @@ Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
 
 Name: [Soumel Zutshi](https://github.com/soumel7)<br/>
-Place: Chandigarh,India
-About: Student,competitive coder
-Programming Languages:C,Python
-Email:soumelzutshi@gmail.com
+Place: Chandigarh,India</br>
+About: Student,competitive coder</br>
+Programming Languages:C,Python</br>
+Email:soumelzutshi@gmail.com</br>
