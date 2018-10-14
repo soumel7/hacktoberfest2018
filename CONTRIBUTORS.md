@@ -1331,3 +1331,8 @@ About: Front End Developer and IT Engineer<br/>
 Programming Languages: JAVA,C,PYTHON,JAVASCRIPT
 Email: vaibhav.tandongcet@gmail.com
 
+Name: [Soumel Zutshi](https://github.com/soumel7)<br/>
+Place: Chandigarh,India
+About: Student,competitive coder
+Programming Languages:C,Python
+Email:soumelzutshi@gmail.com
